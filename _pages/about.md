@@ -2,16 +2,14 @@
 layout: about
 title: Shangqi Lai
 permalink: /
-description: <a href="#">PhD Candidate at Monash University</a>
+description: <a href="#">Research Fellow/Adjuct Lecturer at Monash University Suzhou Campus (Adjuct to Monash University Australia)</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>AG09, 7 Innovation Walk</p>
-    <p>Monash University</p>
-    <p>Clayton, VIC 3800</p>
-    <p>Australia</p>
+    <p>Please contact me via email</p>
+    
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
